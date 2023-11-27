@@ -1,6 +1,6 @@
 <h1>Namaste.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="35px" width="35px"/></h1>
 
-I'm <a href="https://arshsaxena.in">Arsh Saxena</a>, a developer, and student pursuing B.Tech. in Electronics and Communication Engineering. With a strong foundation in Physics, Chemistry, and Mathematics with Computer Science, I love coding.
+I'm <a href="">Arunav Pathak</a>, a developer, and student pursuing B.Tech. in Electronics and Communication Engineering. With a strong foundation in Physics, Chemistry, and Mathematics with Computer Science, I love coding.
 
 I am skilled in Python, Pygame, HTML, CSS, JavaScript, PHP, and SQL. Currently, I am learning C++ and will be going for Swift next.
 
