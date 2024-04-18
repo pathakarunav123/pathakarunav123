@@ -2,8 +2,6 @@
 
 I'm <a href="">Arunav Pathak</a>, a developer, and student pursuing B.Tech. in computer science Engneering with specialization of Artificial intellegnece and Machine Learning. With a strong foundation in Physics, Chemistry, and Mathematics with Computer Science, I love coding.
 
-I am skilled in Python, Pygame, HTML, CSS, JavaScript, PHP, and SQL. Currently, I am learning C++ and will be going for flutter next.
-
 Beyond coding, I do photography, video editing, and photo editing. I am quite fluent in English, I also enjoy writing engaging content, particularly focusing on English comprehension for students. In my free time, I watch movies and TV shows, and I have a hobby of collecting sneakers.
 
 <h3>📚 👨🏻‍💻 📷 📽 💻 🖊️ 👟</h3>
