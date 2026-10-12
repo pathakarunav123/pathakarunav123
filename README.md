@@ -27,7 +27,4 @@ Beyond coding, I do photography, video editing, and photo editing. I am quite fl
     <img src="https://img.shields.io/badge/github-%23323330?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-Let's connect, ping me anywhere!🤘🏻
-://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/spotify.png"  height="50" width="50"></a>
-</p>
 
